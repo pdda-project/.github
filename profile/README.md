@@ -29,7 +29,7 @@ We welcome contributions from individuals and organizations passionate about agr
 - **Dataset Contributions**: Share images and metadata of plant diseases to enrich our archive.
 - **Feedback and Ideas**: Help us improve the platform by providing valuable insights or suggestions.
 
-To get started, visit our [Contributing Guide](#) (link to guide).
+To get started, visit our [Contributing Guide](https://github.com/pdda-project/.github/blob/main/CONTRIBUTING.md) (link to guide).
 
 ---
 
